@@ -1,0 +1,13 @@
+.card-bg {
+  background-color: rgba(42, 42, 42, 0.466);
+}
+.hero-bg {
+  background-color: #ebf6ff;
+}
+.link-color {
+  color: rgb(20, 30, 143);
+}
+
+.link-color:hover {
+  color: rgb(29, 38, 142);
+}
